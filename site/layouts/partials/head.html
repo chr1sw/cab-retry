@@ -1,6 +1,6 @@
 <head>
 
-  <title>{{ .Title }} | Cabalar Meat Co.</title>
+  <title>{{ .Title }} | {{ $.Site.Title }}</title>
 
   {{ $stylesheet := .Site.Data.webpack.main }}
   {{ with $stylesheet.css }}
