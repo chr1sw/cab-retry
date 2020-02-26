@@ -3,11 +3,9 @@
   {{ partial "head" . }}
   <body class="sans-serif">
 
-    {{ block "header" . }}{{ partial "nav" . }}{{end}}
-
+    {{ partial "nav" . }}
     {{ block "main" . }}{{ end }}
-
-    {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+    {{ partial "footer" . }}
 
     {{ $script := .Site.Data.webpack.main }}
     {{ with $script.js }}
