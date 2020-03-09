@@ -22,9 +22,6 @@ snacks:
     name: |
       Onion Rings 
     price: '6'
-  - name: Test
-    description: Test test test
-    price: '5'
 sandwiches:
   - description: >-
       Braised Beef Neck, Jalapeño Cream Cheese, Celery Seed Pickled Onion,
