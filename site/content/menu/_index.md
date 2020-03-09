@@ -1,5 +1,5 @@
 ---
-title: 'Breakfast/Brunch: Sat-Sun 11am-3pm'
+title: MENU
 image: /img/img-2087.jpg
 snacks:
   - description: Sweet Pickle Mayo and Ketchup
