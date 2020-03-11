@@ -1,6 +1,6 @@
 ---
 title: Locally Sourced Products
-image: /img/products-jumbotron.jpg
+image: img/img-1963.jpg
 products:
   - imageUrl: /img/cow.png
     name: Beef
@@ -25,4 +25,3 @@ products:
       Our vegetables are either organic or grown with organic practices. We
       stock only seasonal ingredients when they are available.
 ---
-
