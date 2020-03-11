@@ -1,6 +1,6 @@
 ---
 title: Locally Sourced Butcher & Restaurant
-image: img/4fd00345-1ff3-4bf6-b756-2256fea3f9fc.jpg
+image: img/5d9cf72e-e0f9-431d-8609-6eab3b934121.jpg
 info:
   addone: 325 North Queen Street | The Keppel Building
   addtwo: 'Lancaster, PA 17602 | Phone 717-208-7344'
