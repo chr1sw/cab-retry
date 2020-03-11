@@ -121,5 +121,5 @@ dessert:
       Ice Cream Float
     price: ' 5 '
 beverages:
-  - name: 'Artisan Beer, Wine, Cocktails, and Non-Alcoholic Beverages Available'
+  - name: Artisan Beer and Non-Alcoholic Beverages Available
 ---
