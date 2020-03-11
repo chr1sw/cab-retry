@@ -37,38 +37,34 @@ sandwiches:
       Brioche Bun
     name: Beef & Cheese
     price: '11'
-  - description: 'Smoked Pork Coppa, Fish Oil Aioli, Pickled Veg, Cilantro, Jalapeno'
+  - description: 'Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeno'
     name: Pork Banh Mi
-    price: '9'
+    price: '10'
   - description: 'Smoked Beef Navel, Russian Dressing, Swiss, Kraut, Marble Rye'
     name: Pastrami Reuben
     price: '11'
-  - description: 'Smoked Ham, Spicy Dijon, Swiss, Pickle, Long Roll'
+  - description: 'Smoked Ham, Spicy Dijon, Aioli, Swiss, Pickle, Long Roll'
     name: Cuban
     price: '10'
   - description: 'BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun'
     name: Pulled Pork
     price: '10'
-  - description: |
-      Frankfurter, Tomato, Relish, Pickle Spear, Sport Pepper, Mustard, Onion 
-    name: Chicago Dog
-    price: '7'
   - description: >
       Buttermilk Brined Chicken Thigh, Voodoo Barrel Aged Hot Sauce, B&B
       Pickles, Ranch
     name: Spicy Chicken
-    price: '10'
+    price: 10 |  XXXtra Spicy add 1
 burgers:
   - description: '2-year Aged Cheddar, B&B Pickle, Aioli, Shaved Onion'
     name: House Special Burger
     price: '10'
-  - description: 'Sweet Onion Jam, Smoked Bacon, Aioli, Cooper American'
+  - description: 'Sweet Onion Jam, Smoked Bacon, Aioli, Cooper Sharp'
     name: BBQ Bacon Burger
     price: '12'
-  - description: 'Double Patty, Caramelized Onion, Cajun Mayo, White American, Rye Bread'
+  - description: 'Double Patty, Caramelized Onion, Cajun Mayo, Cooper Sharp, Rye Bread'
     name: Patty Melt
-    price: '12'
-  - description: 'Cooper American, Ketchup, LTO'
+    price: '14'
+  - description: 'Cooper Sharp, Ketchup, LTO, Pickle Mayo'
     name: Classic Burger
     price: '9'
   - description: |
@@ -76,29 +72,26 @@ burgers:
        Mushroom Aioli
     name: Mushroom Swiss Burger
     price: '12'
-  - description: 'Tzatziki, Pickled Red Onion, Radish'
-    name: Falafel Burger
+  - description: 'Falafel Patty, Tzatziki, Radish, Pickled Red Onion'
+    name: 'Falafel '
     price: '9'
+  - name: |
+      Chorizo 
+    description: |
+      Chorizo Patty, Sour Cream, Queso, Tomatillo Salsa, Sunny Egg
+    price: '11'
 salads:
   - description: 'Thousand Island, Crispy Shallot, Radish, Tomato'
     name: |+
       Wedge Salad 
 
     price: '8'
-  - description: 'Tomato, Micro Sorrell, Spring Onion Pistou'
-    name: |
-      Fried Mozz 
-      Hydroponic Tomato, Micro Sorrell, Spring Onion Pistou
-    price: '9'
 brunch:
-  - description: 'Rosemary Roasted Potatoes, Braised Beef, Cajun Aioli, Sunny Egg'
+  - description: 'Bacon Fat Roasted Potatoes, Braised Beef, Cajun Aioli, Sunny Egg'
     name: Breakfast Hash
     price: '10'
-  - description: 'Buttermilk Biscuit, Maple Sausage Gravy'
-    name: Biscuit & Gravy
-    price: '8'
-  - description: 'Chive Egg Scramble, 4-Year Aged Cheddar, Caramelized Onion, Aioli'
-    name: Egg and Cheese
+  - description: 'Chive Egg Scramble, 2-Year Aged Cheddar, Caramelized Onion, Aioli'
+    name: Breakfast Sandwich
     price: 6  |  add sausage +3
   - description: >-
       Maple Cinnamon Butter, Candied Bacon, Smoked Ham, Over Easy Egg, Cooper
