@@ -1,6 +1,6 @@
 ---
 title: Locally Sourced Products
-image: img/img-2561.jpg
+image: img/img-2561-1-.jpg
 products:
   - imageUrl: /img/cow.png
     name: Beef
