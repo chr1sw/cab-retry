@@ -1,6 +1,6 @@
 ---
 title: Locally Sourced Butcher & Restaurant
-image: /img/home-jumbotron.jpg
+image: img/4fd00345-1ff3-4bf6-b756-2256fea3f9fc.jpg
 info:
   addone: 325 North Queen Street | The Keppel Building
   addtwo: 'Lancaster, PA 17602 | Phone 717-208-7344'
@@ -31,4 +31,3 @@ farms:
     Myer Springdell Farm • Mirror Image Farms • Livengood Family Farm • Meadow
     Run Farm
 ---
-
