@@ -5,14 +5,13 @@ info:
   addone: 325 North Queen Street | The Keppel Building
   addtwo: 'Lancaster, PA 17602 | Phone 717-208-7344'
   heading: Locally Sourced Butcher & Restaurant
-  hours: Wed-Thurs 11am-8pm | Fri-Sat 11am-10pm | Sun 11am-8pm
+  hours: Wed-Thurs 11am-8pm | Fri-Sat 11am-9pm | Sun 11am-8pm
   note: Customer Parking Available
 news:
   heading: Latest News
   text: >-
     We are excited to announce our new on-site collaboration with Voodoo
-    Brewery, bringing you the finest craft beer, wine and cocktails to pair with
-    our food menu.
+    Brewery, bringing you the finest craft beer to pair with our food menu.
 food:
   heading: Our Menu
   text: >-
@@ -28,6 +27,6 @@ values:
 farms:
   heading: Our Farms
   text: >-
-    Myer Springdell Farm • Mirror Image Farms • Livengood Family Farm • Meadow
-    Run Farm
+    Myer Springdell Farm • Mirror Image Farms • Livengood Family Farm • Country
+    Meadows Farm
 ---
