@@ -1,6 +1,6 @@
 ---
 title: MENU
-image: img/d57a3d3d-2ecf-4555-ab56-aa64303cbad6.jpg
+image: img/933e8d33-9408-491e-a47d-d4f7bf8f3ef4.jpg
 snacks:
   - description: Sweet Pickle Mayo and Ketchup
     name: Beef Tallow Fries
