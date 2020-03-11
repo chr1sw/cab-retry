@@ -1,6 +1,6 @@
 ---
 title: Locally Sourced Products
-image: img/sustainable-farming.jpg
+image: img/products-jumbotron.jpg
 products:
   - imageUrl: /img/cow.png
     name: Beef
