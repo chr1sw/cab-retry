@@ -7,8 +7,8 @@ products:
     text: >-
       Our beef is pasture raised and 100% grassfed. At no point in its life is
       it ever fed grain. We believe in having the animals eat what nature
-      intended them to, which allows for a healthier animal. This carries the
-      benefit through to our consumer.
+      intended them to, which allows for a healthier animal. The benefit carries
+      through to our customers in a superior tasting product.
   - imageUrl: /img/pig.png
     name: Pork
     text: >
@@ -22,6 +22,6 @@ products:
   - imageUrl: /img/carrot.png
     name: Produce
     text: >-
-      Our vegetables are either organic or grown with organic practices. We
-      stock only seasonal ingredients when they are available.
+      Our vegetables are sourced locally. We utilize seasonal ingredients when
+      they are available at their peak.
 ---
