@@ -1,6 +1,6 @@
 ---
 title: Locally Sourced Products
-image: img/bdd34050-110a-4ee7-b34c-93f734ee4f33-1-.jpg
+image: img/790fac80-2b89-47d1-82f0-7010bdb97234.jpg
 products:
   - imageUrl: /img/cow.png
     name: Beef
