@@ -31,6 +31,9 @@ snacks:
     description: |
       B&B Pickle, Chipotle Ranch
     price: '6'
+  - name: Kids Mac and Cheese
+    price: '5'
+    description: 'Pasta Shells, Cheddar'
 sandwiches:
   - description: >-
       Braised Beef Neck, Jalapeño Cream Cheese, Celery Seed Pickled Onion,
@@ -54,6 +57,9 @@ sandwiches:
       Pickles, Ranch
     name: Spicy Chicken
     price: 10 |  XXXtra Spicy add 1
+  - name: Kids Grilled Cheese
+    price: '5'
+    description: 'Cooper Sharp, Potato Bread'
 burgers:
   - description: '2-year Aged Cheddar, B&B Pickle, Aioli, Shaved Onion'
     name: House Special Burger
@@ -80,6 +86,9 @@ burgers:
     description: |
       Chorizo Patty, Sour Cream, Queso, Tomatillo Salsa, Sunny Egg
     price: '11'
+  - name: Kids Burger
+    description: 'Ketchup, Cooper Sharp'
+    price: '7'
 salads:
   - description: 'Thousand Island, Crispy Shallot, Radish, Tomato'
     name: |+
