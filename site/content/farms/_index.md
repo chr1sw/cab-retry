@@ -14,13 +14,12 @@ farms:
     imageUrl: /img/livengood-farm.jpg
     location: 'Lancaster, PA'
   - description: >-
-      Meadow Run Farm is a pasture-based family farm, where the animals spend
-      most their lives in the green grass, fresh air, & sunshine! They offer a
-      variety of pasture-raised, non-GMO meat & eggs, and organic dairy
-      products.
-    farm: Meadow Run Farm
+      Country Meadows Farm is a pasture-based family farm, where the animals
+      spend most their lives in the green grass, fresh air, & sunshine! They
+      offer a variety of pasture-raised, non-GMO meat.
+    farm: Country Meadows Farm
     imageUrl: /img/meadow-run-farm.jpg
-    location: 'Lititz, PA'
+    location: 'Lancaster, PA'
   - description: >-
       Mirror Image Farms observes nature’s methods and integrate natural
       principles into the way they farm. Their animals live healthy lives on the
@@ -36,4 +35,3 @@ farms:
     imageUrl: /img/vertical-myer-springdell-farm.jpg
     location: 'Strasburg, PA'
 ---
-
