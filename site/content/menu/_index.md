@@ -22,6 +22,15 @@ snacks:
     name: |
       Onion Rings 
     price: '6'
+  - name: 'Pork Rinds '
+    description: |
+      BBQ Rub
+    price: '5'
+  - name: |
+      Fried Pickles
+    description: |
+      B&B Pickle, Chipotle Ranch
+    price: '6'
 sandwiches:
   - description: >-
       Braised Beef Neck, Jalapeño Cream Cheese, Celery Seed Pickled Onion,
