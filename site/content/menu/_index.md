@@ -11,12 +11,6 @@ snacks:
   - description: 'Lard Confit, Hot Sauce, Blue Cheese'
     name: Chicken Wings
     price: '12'
-  - description: |+
-      Cheddar Mac and Cheese, BBQ Pulled Pork, Biscuit Breadcrumb
-
-    name: |
-      Pulled Pork Mac  
-    price: '10'
   - description: |
       Big Brown Ale Beer Batter, Chipotle Mayo
     name: |
@@ -31,6 +25,12 @@ snacks:
     description: |
       B&B Pickle, Chipotle Ranch
     price: '6'
+  - description: |+
+      Cheddar Mac and Cheese, BBQ Pulled Pork, Biscuit Breadcrumb
+
+    name: |
+      Pulled Pork Mac  
+    price: '10'
   - name: Kids Mac and Cheese
     price: '5'
     description: 'Pasta Shells, Cheddar'
