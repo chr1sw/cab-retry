@@ -16,10 +16,6 @@ snacks:
     name: |
       Onion Rings 
     price: '6'
-  - name: 'Pork Rinds '
-    description: |
-      BBQ Rub
-    price: '5'
   - name: |
       Fried Pickles
     description: |
