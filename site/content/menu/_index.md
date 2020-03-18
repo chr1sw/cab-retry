@@ -43,9 +43,6 @@ sandwiches:
   - description: 'Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeno'
     name: Pork Banh Mi
     price: '10'
-  - description: 'Smoked Beef Navel, Russian Dressing, Swiss, Kraut, Marble Rye'
-    name: Pastrami Reuben
-    price: '11'
   - description: 'Smoked Ham, Spicy Dijon, Aioli, Swiss, Pickle, Long Roll'
     name: Cuban
     price: '10'
@@ -73,11 +70,6 @@ burgers:
   - description: 'Cooper Sharp, Ketchup, LTO, Pickle Mayo'
     name: Classic Burger
     price: '9'
-  - description: |
-      Lacto-Fermented Cremini,
-       Mushroom Aioli
-    name: Mushroom Swiss Burger
-    price: '12'
   - description: 'Falafel Patty, Tzatziki, Radish, Pickled Red Onion'
     name: 'Falafel '
     price: '9'
@@ -89,6 +81,10 @@ burgers:
   - name: Kids Burger
     description: 'Ketchup, Cooper Sharp'
     price: '7'
+  - name: Sweet Heat
+    description: |
+      Jalapeño Jam, Spicy Fresno Aioli, Crispy Onions, Cooper Sharp
+    price: '11'
 salads:
   - description: 'Thousand Island, Crispy Shallot, Radish, Tomato'
     name: |+
