@@ -8,6 +8,9 @@ snacks:
   - description: 'Fonduta Cheese Curds, Beef Gravy'
     name: Poutine
     price: '9'
+  - name: Pastrami Fries
+    description: 'Swiss Mornay, Pastrami Bits, Russian, Diced Onion'
+    price: '12'
   - description: 'Lard Confit, Hot Sauce, Blue Cheese'
     name: Chicken Wings
     price: '12'
