@@ -34,6 +34,9 @@ snacks:
     price: '5'
     description: 'Pasta Shells, Cheddar'
 sandwiches:
+  - name: 'Served with:'
+    description: Chips or Salad
+    price: Substitute Fries 2
   - description: >-
       Braised Beef Neck, Jalapeño Cream Cheese, Celery Seed Pickled Onion,
       Brioche Bun
@@ -56,9 +59,6 @@ sandwiches:
   - name: Kids Grilled Cheese
     price: '5'
     description: 'Cooper Sharp, Potato Bread'
-  - name: 'Served with:'
-    description: Chips or Salad
-    price: Substitute Fries 2
 burgers:
   - description: '2-year Aged Cheddar, B&B Pickle, Aioli, Shaved Onion'
     name: House Special Burger
