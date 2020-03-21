@@ -60,6 +60,9 @@ sandwiches:
     price: '5'
     description: 'Cooper Sharp, Potato Bread'
 burgers:
+  - name: 'Served with:'
+    description: Chips or Salad
+    price: Substitute Fries 2
   - description: '2-year Aged Cheddar, B&B Pickle, Aioli, Shaved Onion'
     name: House Special Burger
     price: '10'
