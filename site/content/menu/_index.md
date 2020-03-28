@@ -115,11 +115,6 @@ dessert:
   - description: Madagascan Vanilla Ice Cream
     name: Griddled Pound Cake
     price: '6'
-  - description: 'Double Chocolate Cookie, Madagascan Vanilla Ice Cream'
-    name: |+
-      Ice Cream Sandwich 
-
-    price: '5'
   - description: 'Boylans Soda, Vanilla Scoops'
     name: |
       Ice Cream Float
