@@ -24,6 +24,9 @@ snacks:
     description: |
       B&B Pickle, Chipotle Ranch
     price: '6'
+  - name: Pork Rinds
+    description: BBQ Spice
+    price: '5'
   - description: |+
       Cheddar Mac and Cheese, BBQ Pulled Pork, Biscuit Breadcrumb
 
