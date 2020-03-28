@@ -93,6 +93,9 @@ burgers:
     description: |
       Jalapeño Jam, Spicy Fresno Aioli, Crispy Onions, Cooper Sharp
     price: '11'
+  - name: Ribwich
+    description: 'Boneless Pork Ribs, Dill Pickles, Shaved Onion, Aioli'
+    price: '13'
 salads:
   - description: 'Thousand Island, Crispy Shallot, Radish, Tomato'
     name: |+
