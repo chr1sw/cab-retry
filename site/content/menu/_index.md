@@ -8,9 +8,6 @@ snacks:
   - description: 'Fonduta Cheese Curds, Beef Gravy'
     name: Poutine
     price: '9'
-  - name: Pastrami Fries
-    description: 'Swiss Mornay, Pastrami Bits, Russian, Diced Onion'
-    price: '12'
   - description: 'Lard Confit, Hot Sauce, Blue Cheese'
     name: Chicken Wings
     price: '12'
@@ -18,11 +15,6 @@ snacks:
       Big Brown Ale Beer Batter, Chipotle Mayo
     name: |
       Onion Rings 
-    price: '6'
-  - name: |
-      Fried Pickles
-    description: |
-      B&B Pickle, Chipotle Ranch
     price: '6'
   - name: Pork Rinds
     description: BBQ Spice
@@ -54,11 +46,6 @@ sandwiches:
   - description: 'BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun'
     name: Pulled Pork
     price: '10'
-  - description: >
-      Buttermilk Brined Chicken Thigh, Voodoo Barrel Aged Hot Sauce, B&B
-      Pickles, Ranch
-    name: Spicy Chicken
-    price: 10 |  XXXtra Spicy add 1
   - name: Kids Grilled Cheese
     price: '5'
     description: 'Cooper Sharp, Potato Bread'
@@ -93,9 +80,6 @@ burgers:
     description: |
       Jalapeño Jam, Spicy Fresno Aioli, Crispy Onions, Cooper Sharp
     price: '11'
-  - name: Ribwich
-    description: 'Boneless Pork Ribs, Dill Pickles, Shaved Onion, Aioli'
-    price: '13'
 salads:
   - description: 'Thousand Island, Crispy Shallot, Radish, Tomato'
     name: |+
