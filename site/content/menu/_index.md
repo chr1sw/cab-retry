@@ -49,7 +49,7 @@ sandwiches:
   - name: Pastrami Reuben
     description: 'Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye'
     price: '11'
-  - name: Spicy Ch
+  - name: Spicy Chicken
     description: |-
 
       Exxxtra Hot   add 1
