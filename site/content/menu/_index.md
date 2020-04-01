@@ -106,6 +106,9 @@ dessert:
     name: |
       Ice Cream Float
     price: ' 5 '
+  - name: Fried Cookies
+    description: 'Double Fudge Cookies, Big Black Voodoo Daddy Beer Batter'
+    price: '6'
 beverages:
   - name: Artisan Beer and Non-Alcoholic Beverages Available
 ---
