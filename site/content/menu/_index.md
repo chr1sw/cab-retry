@@ -72,9 +72,10 @@ burgers:
   - description: 'Cooper Sharp, Ketchup, LTO, Pickle Mayo'
     name: Classic Burger
     price: '9'
-  - description: 'Falafel Patty, Tzatziki, Radish, Pickled Red Onion'
-    name: 'Falafel '
-    price: '9'
+  - name: Sweet Heat
+    description: |
+      Jalapeño Jam, Spicy Fresno Aioli, Crispy Onions, Cooper Sharp
+    price: '11'
   - name: |
       Chorizo 
     description: |
@@ -83,10 +84,9 @@ burgers:
   - name: Kids Burger
     description: 'Ketchup, Cooper Sharp'
     price: '7'
-  - name: Sweet Heat
-    description: |
-      Jalapeño Jam, Spicy Fresno Aioli, Crispy Onions, Cooper Sharp
-    price: '11'
+  - description: 'Falafel Patty, Tzatziki, Radish, Pickled Red Onion'
+    name: 'Falafel '
+    price: '9'
 salads:
   - description: 'Thousand Island, Crispy Shallot, Radish, Tomato'
     name: |+
