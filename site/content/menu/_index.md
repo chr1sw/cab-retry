@@ -8,9 +8,6 @@ snacks:
   - description: 'Fonduta Cheese Curds, Beef Gravy'
     name: Poutine
     price: '9'
-  - description: 'Lard Confit, Hot Sauce, Blue Cheese'
-    name: Chicken Wings
-    price: '12'
   - description: |
       Big Brown Ale Beer Batter, Chipotle Mayo
     name: |
