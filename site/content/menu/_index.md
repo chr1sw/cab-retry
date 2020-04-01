@@ -50,12 +50,8 @@ sandwiches:
     description: 'Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye'
     price: '11'
   - name: Spicy Chicken
-    description: |-
-
-      Exxxtra Hot   add 1
-
-      Buttermilk Brined Chicken Thigh, Hot Sauce, B&B Pickles, Ranch 
-    price: '10'
+    description: 'Buttermilk Brined Chicken Thigh, Hot Sauce, B&B Pickles, Ranch '
+    price: 10 |  Exxxtra Hot  Add 1
 burgers:
   - name: 'Served with:'
     description: Chips or Salad
