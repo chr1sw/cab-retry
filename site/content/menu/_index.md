@@ -49,6 +49,13 @@ sandwiches:
   - name: Pastrami Reuben
     description: 'Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye'
     price: '11'
+  - name: Spicy Ch
+    description: |-
+
+      Exxxtra Hot   add 1
+
+      Buttermilk Brined Chicken Thigh, Hot Sauce, B&B Pickles, Ranch 
+    price: '10'
 burgers:
   - name: 'Served with:'
     description: Chips or Salad
