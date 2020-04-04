@@ -25,6 +25,10 @@ snacks:
   - name: Kids Mac and Cheese
     price: '5'
     description: 'Pasta Shells, Cheddar'
+  - name: Chicken Wings
+    price: '12'
+    description: |
+      Lard Confit, Hot Sauce, Blue Cheese
 sandwiches:
   - name: 'Served with:'
     description: Chips or Salad
@@ -77,9 +81,6 @@ burgers:
   - name: Kids Burger
     description: 'Ketchup, Cooper Sharp'
     price: '7'
-  - description: 'Falafel Patty, Tzatziki, Radish, Pickled Red Onion'
-    name: 'Falafel '
-    price: '9'
 salads:
   - description: 'Thousand Island, Crispy Shallot, Radish, Tomato'
     name: |+
