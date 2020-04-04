@@ -47,15 +47,15 @@ sandwiches:
   - description: 'BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun'
     name: Pulled Pork
     price: '10'
-  - name: Kids Grilled Cheese
-    price: '5'
-    description: 'Cooper Sharp, Potato Bread'
   - name: Pastrami Reuben
     description: 'Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye'
     price: '11'
   - name: Spicy Chicken
     description: 'Buttermilk Brined Chicken Thigh, Hot Sauce, B&B Pickles, Ranch '
     price: 10 |  Exxxtra Hot  Add 1
+  - name: Kids Grilled Cheese
+    price: '5'
+    description: 'Cooper Sharp, Potato Bread'
 burgers:
   - name: 'Served with:'
     description: Chips or Salad
@@ -81,6 +81,11 @@ burgers:
   - name: Kids Burger
     description: 'Ketchup, Cooper Sharp'
     price: '7'
+  - name: |
+      BBQ Bacon 
+    description: |
+      Sweet Onion Jam, Smoked Bacon, Aioli, Cooper Sharp
+    price: '12'
 salads:
   - description: 'Thousand Island, Crispy Shallot, Radish, Tomato'
     name: |+
