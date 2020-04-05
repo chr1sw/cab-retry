@@ -16,12 +16,6 @@ snacks:
   - name: Pork Rinds
     description: BBQ Spice
     price: '5'
-  - description: |+
-      Cheddar Mac and Cheese, BBQ Pulled Pork, Biscuit Breadcrumb
-
-    name: |
-      Pulled Pork Mac  
-    price: '10'
   - name: Kids Mac and Cheese
     price: '5'
     description: 'Pasta Shells, Cheddar'
@@ -43,9 +37,6 @@ sandwiches:
     price: '10'
   - description: 'Smoked Ham, Spicy Dijon, Aioli, Swiss, Pickle, Long Roll'
     name: Cuban
-    price: '10'
-  - description: 'BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun'
-    name: Pulled Pork
     price: '10'
   - name: Pastrami Reuben
     description: 'Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye'
