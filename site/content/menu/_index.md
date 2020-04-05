@@ -99,10 +99,6 @@ dessert:
   - description: Madagascan Vanilla Ice Cream
     name: Griddled Pound Cake
     price: '6'
-  - description: 'Boylans Soda, Vanilla Scoops'
-    name: |
-      Ice Cream Float
-    price: ' 5 '
   - name: Fried Cookies
     description: 'Double Fudge Cookies, Big Black Voodoo Daddy Beer Batter'
     price: '6'
