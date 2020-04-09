@@ -56,6 +56,11 @@ sandwiches:
     description: |
       BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun
     price: "10"
+  - name: |
+      Falafel 
+    description: |
+      Falafel Patty, Tzatziki, Radish, Pickled Red Onion
+    price: "9"
 burgers:
   - name: "Served with:"
     description: Chips or Salad
