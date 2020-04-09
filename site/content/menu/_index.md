@@ -4,104 +4,107 @@ image: img/4fd00345-1ff3-4bf6-b756-2256fea3f9fc-1-.jpg
 snacks:
   - description: Sweet Pickle Mayo and Ketchup
     name: Beef Tallow Fries
-    price: '5'
-  - description: 'Fonduta Cheese Curds, Beef Gravy'
+    price: "5"
+  - description: Fonduta Cheese Curds, Beef Gravy
     name: Poutine
-    price: '9'
+    price: "9"
   - description: |
       Big Brown Ale Beer Batter, Chipotle Mayo
     name: |
       Onion Rings 
-    price: '6'
+    price: "6"
   - name: Pork Rinds
     description: BBQ Spice
-    price: '5'
+    price: "5"
   - name: Chicken Wings
-    price: '12'
+    price: "12"
     description: |
       Lard Confit, Hot Sauce, Blue Cheese
   - name: Kids Mac and Cheese
-    price: '5'
-    description: 'Pasta Shells, Cheddar'
+    price: "5"
+    description: Pasta Shells, Cheddar
+  - name: |
+      Fried Pickles
+    description: |
+      B&B Pickle, Chipotle Ranch
+    price: "6"
 sandwiches:
-  - name: 'Served with:'
+  - name: "Served with:"
     description: Chips or Salad
     price: Substitute Fries 2
-  - description: >-
-      Braised Beef Neck, Jalapeño Cream Cheese, Celery Seed Pickled Onion,
-      Brioche Bun
+  - description: Braised Beef Neck, Jalapeño Cream Cheese, Celery Seed Pickled
+      Onion, Brioche Bun
     name: Beef & Cheese
-    price: '11'
-  - description: 'Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeno'
+    price: "11"
+  - description: Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeno
     name: Pork Banh Mi
-    price: '10'
-  - description: 'Smoked Ham, Spicy Dijon, Aioli, Swiss, Pickle, Long Roll'
+    price: "10"
+  - description: Smoked Ham, Spicy Dijon, Aioli, Swiss, Pickle, Long Roll
     name: Cuban
-    price: '10'
+    price: "10"
   - name: Pastrami Reuben
-    description: 'Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye'
-    price: '11'
+    description: Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye
+    price: "11"
   - name: Spicy Chicken
-    description: 'Buttermilk Brined Chicken Thigh, Hot Sauce, B&B Pickles, Ranch '
+    description: "Buttermilk Brined Chicken Thigh, Hot Sauce, B&B Pickles, Ranch "
     price: 10 |  Exxxtra Hot  Add 1
   - name: Kids Grilled Cheese
-    price: '5'
-    description: 'Cooper Sharp, Potato Bread'
+    price: "5"
+    description: Cooper Sharp, Potato Bread
 burgers:
-  - name: 'Served with:'
+  - name: "Served with:"
     description: Chips or Salad
     price: Substitute Fries 2
-  - description: '2-year Aged Cheddar, B&B Pickle, Aioli, Shaved Onion'
+  - description: 2-year Aged Cheddar, B&B Pickle, Aioli, Shaved Onion
     name: House Special Burger
-    price: '10'
-  - description: 'Double Patty, Caramelized Onion, Cajun Mayo, Cooper Sharp, Rye Bread'
+    price: "10"
+  - description: Double Patty, Caramelized Onion, Cajun Mayo, Cooper Sharp, Rye Bread
     name: Patty Melt
-    price: '14'
-  - description: 'Cooper Sharp, Ketchup, LTO, Pickle Mayo'
+    price: "14"
+  - description: Cooper Sharp, Ketchup, LTO, Pickle Mayo
     name: Classic Burger
-    price: '9'
+    price: "9"
   - name: Sweet Heat
     description: |
       Jalapeño Jam, Spicy Fresno Aioli, Crispy Onions, Cooper Sharp
-    price: '11'
+    price: "11"
   - name: |
       Chorizo 
     description: |
       Chorizo Patty, Sour Cream, Queso, Tomatillo Salsa, Sunny Egg
-    price: '11'
+    price: "11"
   - name: Kids Burger
-    description: 'Ketchup, Cooper Sharp'
-    price: '7'
+    description: Ketchup, Cooper Sharp
+    price: "7"
   - name: |
       BBQ Bacon 
     description: |
       Sweet Onion Jam, Smoked Bacon, Aioli, Cooper Sharp
-    price: '12'
+    price: "12"
 salads:
-  - description: 'Thousand Island, Crispy Shallot, Radish, Tomato'
+  - description: Thousand Island, Crispy Shallot, Radish, Tomato
     name: |+
       Wedge Salad 
 
-    price: '8'
+    price: "8"
 brunch:
-  - description: 'Bacon Fat Roasted Potatoes, Braised Beef, Cajun Aioli, Sunny Egg'
+  - description: Bacon Fat Roasted Potatoes, Braised Beef, Cajun Aioli, Sunny Egg
     name: Breakfast Hash
-    price: '10'
-  - description: 'Chive Egg Scramble, 2-Year Aged Cheddar, Caramelized Onion, Aioli'
+    price: "10"
+  - description: Chive Egg Scramble, 2-Year Aged Cheddar, Caramelized Onion, Aioli
     name: Breakfast Sandwich
     price: 6  |  add sausage +3
-  - description: >-
-      Maple Cinnamon Butter, Candied Bacon, Smoked Ham, Over Easy Egg, Cooper
-      American
+  - description: Maple Cinnamon Butter, Candied Bacon, Smoked Ham, Over Easy Egg,
+      Cooper American
     name: Monte Cristo
-    price: '9'
+    price: "9"
 dessert:
   - description: Madagascan Vanilla Ice Cream
     name: Griddled Pound Cake
-    price: '6'
+    price: "6"
   - name: Fried Cookies
-    description: 'Double Fudge Cookies, Big Black Voodoo Daddy Beer Batter'
-    price: '6'
+    description: Double Fudge Cookies, Big Black Voodoo Daddy Beer Batter
+    price: "6"
 beverages:
   - name: Artisan Beer and Non-Alcoholic Beverages Available
 ---
