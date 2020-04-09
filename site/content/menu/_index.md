@@ -51,6 +51,11 @@ sandwiches:
   - name: Kids Grilled Cheese
     price: "5"
     description: Cooper Sharp, Potato Bread
+  - name: |
+      Pulled Pork  
+    description: |
+      BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun
+    price: "10"
 burgers:
   - name: "Served with:"
     description: Chips or Salad
