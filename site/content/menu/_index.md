@@ -104,12 +104,12 @@ brunch:
       Cooper American
     name: Monte Cristo
     price: "9"
+  - name: Biscuit and Gravy
+    description: Buttermilk Biscuit, Sausage Gravy
+    price: "9"
 dessert:
   - description: Madagascan Vanilla Ice Cream
     name: Griddled Pound Cake
-    price: "6"
-  - name: Fried Cookies
-    description: Double Fudge Cookies, Big Black Voodoo Daddy Beer Batter
     price: "6"
 beverages:
   - name: Artisan Beer and Non-Alcoholic Beverages Available
