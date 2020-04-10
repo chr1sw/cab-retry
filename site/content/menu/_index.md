@@ -16,10 +16,6 @@ snacks:
   - name: Pork Rinds
     description: BBQ Spice
     price: "5"
-  - name: Chicken Wings
-    price: "12"
-    description: |
-      Lard Confit, Hot Sauce, Blue Cheese
   - name: Kids Mac and Cheese
     price: "5"
     description: Pasta Shells, Cheddar
