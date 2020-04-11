@@ -32,9 +32,6 @@ sandwiches:
       Onion, Brioche Bun
     name: Beef & Cheese
     price: "11"
-  - description: Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeno
-    name: Pork Banh Mi
-    price: "10"
   - description: Smoked Ham, Spicy Dijon, Aioli, Swiss, Pickle, Long Roll
     name: Cuban
     price: "10"
