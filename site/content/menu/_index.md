@@ -41,19 +41,19 @@ sandwiches:
   - name: Spicy Chicken
     description: "Buttermilk Brined Chicken Thigh, Hot Sauce, B&B Pickles, Ranch "
     price: 10 |  Exxxtra Hot  Add 1
-  - name: Kids Grilled Cheese
-    price: "5"
-    description: Cooper Sharp, Potato Bread
   - name: |
       Pulled Pork  
     description: |
       BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun
     price: "10"
-  - name: |
-      Falafel 
-    description: |
-      Falafel Patty, Tzatziki, Radish, Pickled Red Onion
-    price: "9"
+  - name: |+
+      Pork Banh Mi  
+
+    price: "10"
+    description: Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeno
+  - name: Kids Grilled Cheese
+    price: "5"
+    description: Cooper Sharp, Potato Bread
 burgers:
   - name: "Served with:"
     description: Chips or Salad
