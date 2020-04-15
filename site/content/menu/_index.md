@@ -101,9 +101,6 @@ brunch:
       Cooper American
     name: Monte Cristo
     price: "9"
-  - name: Biscuit and Gravy
-    description: Buttermilk Biscuit, Sausage Gravy
-    price: "9"
 dessert:
   - description: Madagascan Vanilla Ice Cream
     name: Griddled Pound Cake
