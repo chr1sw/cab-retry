@@ -54,6 +54,9 @@ sandwiches:
   - name: Kids Grilled Cheese
     price: "5"
     description: Cooper Sharp, Potato Bread
+  - name: Goatwich
+    description: Green Curry Goat Shoulder, Pomegranate Yogurt, Cilantro Onion Slaw
+    price: "14"
 burgers:
   - name: "Served with:"
     description: Chips or Salad
