@@ -51,12 +51,16 @@ sandwiches:
 
     price: "10"
     description: Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeno
-  - name: Kids Grilled Cheese
-    price: "5"
-    description: Cooper Sharp, Potato Bread
+  - name: Falafel
+    description: |
+      Falafel Patty, Tzatziki, Radish, Pickled Red Onion
+    price: "9"
   - name: Goatwich
     description: Green Curry Goat Shoulder, Pomegranate Yogurt, Cilantro Onion Slaw
     price: "14"
+  - name: Kids Grilled Cheese
+    price: "5"
+    description: Cooper Sharp, Potato Bread
 burgers:
   - name: "Served with:"
     description: Chips or Salad
