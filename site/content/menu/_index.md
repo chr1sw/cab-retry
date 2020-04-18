@@ -16,9 +16,6 @@ snacks:
   - name: Pork Rinds
     description: BBQ Spice
     price: "5"
-  - name: Kids Mac and Cheese
-    price: "5"
-    description: Pasta Shells, Cheddar
   - name: |+
       Fried Pickles
 
@@ -29,6 +26,9 @@ snacks:
 
     price: " 12"
     description: Lard Confit, Hot Sauce, Blue Cheese
+  - name: Kids Mac and Cheese
+    price: "5"
+    description: Pasta Shells, Cheddar
 sandwiches:
   - name: "Served with:"
     description: Chips or Salad
