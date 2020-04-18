@@ -24,6 +24,11 @@ snacks:
 
     description: B&B Pickle, Chipotle Ranch
     price: " 6"
+  - name: |+
+      Chicken Wings 
+
+    price: " 12"
+    description: Lard Confit, Hot Sauce, Blue Cheese
 sandwiches:
   - name: "Served with:"
     description: Chips or Salad
