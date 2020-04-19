@@ -85,12 +85,7 @@ burgers:
   - name: Kids Burger
     description: Ketchup, Cooper Sharp
     price: "7"
-salads:
-  - description: Thousand Island, Crispy Shallot, Radish, Tomato
-    name: |+
-      Wedge Salad 
-
-    price: "8"
+salads: []
 brunch:
   - description: Bacon Fat Roasted Potatoes, Braised Beef, Cajun Aioli, Sunny Egg
     name: Breakfast Hash
