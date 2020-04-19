@@ -57,9 +57,6 @@ sandwiches:
     description: |
       Falafel Patty, Tzatziki, Radish, Pickled Red Onion
     price: "9"
-  - name: Goatwich
-    description: Green Curry Goat Shoulder, Pomegranate Yogurt, Cilantro Onion Slaw
-    price: "14"
   - name: Kids Grilled Cheese
     price: "5"
     description: Cooper Sharp, Potato Bread
