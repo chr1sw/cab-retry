@@ -73,11 +73,6 @@ burgers:
       Jalapeño Jam, Spicy Fresno Aioli, Crispy Onions, Cooper Sharp
     price: "11"
   - name: |
-      Chorizo 
-    description: |
-      Chorizo Patty, Sour Cream, Queso, Tomatillo Salsa, Sunny Egg
-    price: "11"
-  - name: |
       BBQ Bacon 
     description: |
       Sweet Onion Jam, Smoked Bacon, Aioli, Cooper Sharp
