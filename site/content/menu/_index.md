@@ -10,9 +10,6 @@ snacks:
     name: |
       Onion Rings 
     price: "6"
-  - name: Pork Rinds
-    description: BBQ Spice
-    price: "5"
   - name: |+
       Fried Pickles
 
@@ -21,6 +18,11 @@ snacks:
   - name: Kids Mac and Cheese
     price: "5"
     description: Pasta Shells, Cheddar
+  - name: |
+      Poutine  
+      Tallow Fries, Fonduta Cheese Curds, Beef Gravy
+    price: "9"
+    description: Tallow Fries, Fonduta Cheese Curds, Beef Gravy
 sandwiches:
   - name: "Served with:"
     description: Chips or Salad
