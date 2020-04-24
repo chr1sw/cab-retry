@@ -41,10 +41,6 @@ sandwiches:
     description: |
       BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun
     price: "10"
-  - name: Falafel
-    description: |
-      Falafel Patty, Tzatziki, Radish, Pickled Red Onion
-    price: "9"
   - name: Kids Grilled Cheese
     price: "5"
     description: Cooper Sharp, Potato Bread
