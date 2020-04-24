@@ -54,6 +54,9 @@ sandwiches:
     price: "10"
     description: |
       Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeno
+  - name: Pastrami Reuben
+    description: Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye
+    price: "11"
 burgers:
   - name: "Served with:"
     description: Chips or Salad
