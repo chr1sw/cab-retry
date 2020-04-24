@@ -20,7 +20,6 @@ snacks:
     description: Pasta Shells, Cheddar
   - name: |
       Poutine  
-      Tallow Fries, Fonduta Cheese Curds, Beef Gravy
     price: "9"
     description: Tallow Fries, Fonduta Cheese Curds, Beef Gravy
 sandwiches:
