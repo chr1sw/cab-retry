@@ -5,6 +5,10 @@ snacks:
   - description: Sweet Pickle Mayo and Ketchup
     name: Beef Tallow Fries
     price: "5"
+  - name: |
+      Poutine  
+    price: "9"
+    description: Tallow Fries, Fonduta Cheese Curds, Beef Gravy
   - description: |
       Big Brown Ale Beer Batter, Chipotle Mayo
     name: |
@@ -15,18 +19,14 @@ snacks:
 
     description: B&B Pickle, Chipotle Ranch
     price: " 6"
-  - name: Kids Mac and Cheese
-    price: "5"
-    description: Pasta Shells, Cheddar
-  - name: |
-      Poutine  
-    price: "9"
-    description: Tallow Fries, Fonduta Cheese Curds, Beef Gravy
   - name: |+
       Pulled Pork Mac  
 
     description: Cheddar Mac and Cheese, BBQ Pork, Bacon Fat Breadcrumb
     price: "10"
+  - name: Kids Mac and Cheese
+    price: "5"
+    description: Pasta Shells, Cheddar
 sandwiches:
   - name: "Served with:"
     description: Chips or Salad
