@@ -46,9 +46,6 @@ sandwiches:
     description: |
       BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun
     price: "10"
-  - name: Kids Grilled Cheese
-    price: "5"
-    description: Cooper Sharp, Potato Bread
   - name: |
       Pork Banh Mi  
     price: "10"
@@ -57,6 +54,9 @@ sandwiches:
   - name: Pastrami Reuben
     description: Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye
     price: "11"
+  - name: Kids Grilled Cheese
+    price: "5"
+    description: Cooper Sharp, Potato Bread
 burgers:
   - name: "Served with:"
     description: Chips or Salad
