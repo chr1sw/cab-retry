@@ -87,7 +87,11 @@ burgers:
 
     price: " 11"
     description: Chorizo Patty, Sour Cream, Queso, Tomatillo Salsa, Sunny Egg
-salads: []
+salads:
+  - name: |
+      Wedge Salad 
+    description: Iceberg, Thousand Island, Crispy Shallot, Radish, Tomato
+    price: "8"
 brunch:
   - description: Bacon Fat Roasted Potatoes, Braised Beef, Cajun Aioli, Sunny Egg
     name: Breakfast Hash
