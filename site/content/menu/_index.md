@@ -79,14 +79,14 @@ burgers:
     description: |
       Sweet Onion Jam, Smoked Bacon, Aioli, Cooper Sharp
     price: "12"
-  - name: Kids Burger
-    description: Ketchup, Cooper Sharp
-    price: "7"
   - name: |+
       Chorizo 
 
     price: " 11"
     description: Chorizo Patty, Sour Cream, Queso, Tomatillo Salsa, Sunny Egg
+  - name: Kids Burger
+    description: Ketchup, Cooper Sharp
+    price: "7"
 salads:
   - name: |
       Wedge Salad 
