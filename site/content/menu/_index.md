@@ -32,6 +32,11 @@ snacks:
   - name: Kids Mac and Cheese
     price: "5"
     description: Pasta Shells, Cheddar
+  - name: |+
+      Pork Rinds
+
+    description: BBQ Rub
+    price: " 5"
 sandwiches:
   - name: "Served with:"
     description: Chips or Salad
