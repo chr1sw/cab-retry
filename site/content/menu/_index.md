@@ -82,6 +82,11 @@ burgers:
   - name: Kids Burger
     description: Ketchup, Cooper Sharp
     price: "7"
+  - name: |+
+      Chorizo 
+
+    price: " 11"
+    description: Chorizo Patty, Sour Cream, Queso, Tomatillo Salsa, Sunny Egg
 salads: []
 brunch:
   - description: Bacon Fat Roasted Potatoes, Braised Beef, Cajun Aioli, Sunny Egg
