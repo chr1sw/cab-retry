@@ -51,11 +51,6 @@ sandwiches:
     description: |
       BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun
     price: "10"
-  - name: |
-      Pork Banh Mi  
-    price: "10"
-    description: |
-      Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeno
   - name: Pastrami Reuben
     description: Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye
     price: "11"
