@@ -9,16 +9,6 @@ snacks:
       Poutine  
     price: "9"
     description: Tallow Fries, Fonduta Cheese Curds, Beef Gravy
-  - description: |
-      Big Brown Ale Beer Batter, Chipotle Mayo
-    name: |
-      Onion Rings 
-    price: "6"
-  - name: |+
-      Fried Pickles
-
-    description: B&B Pickle, Chipotle Ranch
-    price: " 6"
   - name: |+
       Pork Rinds
 
@@ -79,11 +69,6 @@ burgers:
     description: |
       Jalapeño Jam, Spicy Fresno Aioli, Crispy Onions, Cooper Sharp
     price: "11"
-  - name: |
-      BBQ Bacon 
-    description: |
-      Sweet Onion Jam, Smoked Bacon, Aioli, Cooper Sharp
-    price: "12"
   - name: |+
       Chorizo 
 
