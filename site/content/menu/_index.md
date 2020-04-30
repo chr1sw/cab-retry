@@ -15,11 +15,6 @@ snacks:
     description: BBQ Rub
     price: " 5"
   - name: |+
-      Chicken Wings  
-
-    description: Lard Confit, Hot Sauce, Blue Cheese
-    price: "12"
-  - name: |+
       Pulled Pork Mac  
 
     description: Cheddar Mac and Cheese, BBQ Pork, Bacon Fat Breadcrumb
