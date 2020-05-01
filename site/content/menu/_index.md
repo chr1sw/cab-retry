@@ -15,6 +15,11 @@ snacks:
     description: Big Brown Ale Beer Batter, Chipotle Mayo
     price: "6"
   - name: |+
+      Fried Pickles 
+
+    description: B&B Pickle, Chipotle Ranch
+    price: "6"
+  - name: |+
       Pork Rinds
 
     description: BBQ Rub
@@ -27,11 +32,6 @@ snacks:
   - name: Kids Mac and Cheese
     price: "5"
     description: Pasta Shells, Cheddar
-  - name: |+
-      Fried Pickles 
-
-    description: B&B Pickle, Chipotle Ranch
-    price: "6"
 sandwiches:
   - name: "Served with:"
     description: Chips or Salad
