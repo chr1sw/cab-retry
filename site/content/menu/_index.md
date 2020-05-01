@@ -100,10 +100,7 @@ brunch:
       Cooper American
     name: Monte Cristo
     price: "9"
-dessert:
-  - description: Madagascan Vanilla Ice Cream
-    name: Griddled Pound Cake
-    price: "6"
+dessert: []
 beverages:
   - name: Artisan Beer and Non-Alcoholic Beverages Available
 ---
