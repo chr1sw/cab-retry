@@ -10,6 +10,11 @@ snacks:
     price: "9"
     description: Tallow Fries, Fonduta Cheese Curds, Beef Gravy
   - name: |+
+      Onion Rings  
+
+    description: Big Brown Ale Beer Batter, Chipotle Mayo
+    price: "6"
+  - name: |+
       Pork Rinds
 
     description: BBQ Rub
