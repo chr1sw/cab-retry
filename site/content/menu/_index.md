@@ -99,6 +99,9 @@ burgers:
 
     price: " 11"
     description: Chorizo Patty, Sour Cream, Queso, Tomatillo Salsa, Sunny Egg
+  - name: "Dry Age "
+    description: "Dry Age Patty,  Russian, Swiss, Dill Pickle "
+    price: "14"
   - name: Kids Burger
     description: Ketchup, Cooper Sharp
     price: "7"
