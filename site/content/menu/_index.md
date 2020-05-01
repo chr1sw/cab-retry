@@ -93,9 +93,6 @@ salads:
     description: Iceberg, Thousand Island, Crispy Shallot, Radish, Tomato
     price: "8"
 brunch:
-  - description: Bacon Fat Roasted Potatoes, Braised Beef, Cajun Aioli, Sunny Egg
-    name: Breakfast Hash
-    price: "10"
   - description: Chive Egg Scramble, 2-Year Aged Cheddar, Caramelized Onion, Aioli
     name: Breakfast Sandwich
     price: 6  |  add sausage +3
