@@ -20,6 +20,11 @@ snacks:
     description: B&B Pickle, Chipotle Ranch
     price: "6"
   - name: |+
+      Chicken Wings  
+
+    description: Lard Confit, Hot Sauce, Blue Cheese
+    price: "12"
+  - name: |+
       Pork Rinds
 
     description: BBQ Rub
