@@ -24,11 +24,6 @@ snacks:
 
     description: Lard Confit, Hot Sauce, Blue Cheese
     price: "12"
-  - name: |+
-      Pulled Pork Mac  
-
-    description: Cheddar Mac and Cheese, BBQ Pork, Bacon Fat Breadcrumb
-    price: "10"
   - name: Kids Mac and Cheese
     price: "5"
     description: Pasta Shells, Cheddar
@@ -46,11 +41,6 @@ sandwiches:
   - name: Spicy Chicken
     description: "Buttermilk Brined Chicken Thigh, Hot Sauce, B&B Pickles, Ranch "
     price: 10 |  Exxxtra Hot  Add 1
-  - name: |
-      Pulled Pork  
-    description: |
-      BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun
-    price: "10"
   - name: |+
       Pork Banh Mi  
 
