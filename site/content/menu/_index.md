@@ -54,6 +54,11 @@ sandwiches:
   - name: Kids Grilled Cheese
     price: "5"
     description: Cooper Sharp, Potato Bread
+  - name: |+
+      Pastrami Reuben  
+
+    description: Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye
+    price: "11"
 burgers:
   - name: "Served with:"
     description: Chips or Salad
