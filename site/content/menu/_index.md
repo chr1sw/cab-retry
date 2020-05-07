@@ -24,12 +24,12 @@ snacks:
     description: |
       Cheddar Mac and Cheese, BBQ Pork, Bacon Fat Breadcrumb
     price: "10"
-  - name: Kids Mac and Cheese
-    price: "5"
-    description: Pasta Shells, Cheddar
   - name: Pastrami Fries
     description: Swiss Mornay, Pastrami Bits, Russian, Diced Onion
     price: "12"
+  - name: Kids Mac and Cheese
+    price: "5"
+    description: Pasta Shells, Cheddar
 sandwiches:
   - name: "Served with:"
     description: Chips or Salad
