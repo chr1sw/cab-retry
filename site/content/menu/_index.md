@@ -40,6 +40,11 @@ sandwiches:
       Onion, Brioche Bun
     name: Beef & Cheese
     price: "11"
+  - name: |+
+      Pulled Pork  
+
+    description: BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun
+    price: "10"
   - description: Smoked Ham, Spicy Dijon, Aioli, Swiss, Pickle, Long Roll
     name: Cuban
     price: "10"
@@ -52,6 +57,11 @@ sandwiches:
     description: Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeno
     price: "10"
   - name: |+
+      Pastrami Reuben  
+
+    description: Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye
+    price: "11"
+  - name: |+
       Falafel  
 
     price: "9"
@@ -59,11 +69,6 @@ sandwiches:
   - name: Kids Grilled Cheese
     price: "5"
     description: Cooper Sharp, Potato Bread
-  - name: |+
-      Pastrami Reuben  
-
-    description: Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye
-    price: "11"
 burgers:
   - name: "Served with:"
     description: Chips or Salad
