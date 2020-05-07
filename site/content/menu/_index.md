@@ -24,6 +24,11 @@ snacks:
 
     description: Lard Confit, Hot Sauce, Blue Cheese
     price: "12"
+  - name: |
+      Pulled Pork Mac 
+    description: |
+      Cheddar Mac and Cheese, BBQ Pork, Bacon Fat Breadcrumb
+    price: "10"
   - name: Kids Mac and Cheese
     price: "5"
     description: Pasta Shells, Cheddar
