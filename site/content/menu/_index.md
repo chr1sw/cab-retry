@@ -27,6 +27,9 @@ snacks:
   - name: Kids Mac and Cheese
     price: "5"
     description: Pasta Shells, Cheddar
+  - name: Pastrami Fries
+    description: Swiss Mornay, Pastrami Bits, Russian, Diced Onion
+    price: "12"
 sandwiches:
   - name: "Served with:"
     description: Chips or Salad
