@@ -27,6 +27,11 @@ snacks:
   - name: Pastrami Fries
     description: Swiss Mornay, Pastrami Bits, Russian, Diced Onion
     price: "12"
+  - name: |
+      Chicken Wings  
+    description: |
+      Lard Confit, Hot Sauce, Blue Cheese
+    price: "12"
   - name: Kids Mac and Cheese
     price: "5"
     description: Pasta Shells, Cheddar
