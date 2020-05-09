@@ -60,11 +60,6 @@ sandwiches:
     description: Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeno
     price: "10"
   - name: |+
-      Pastrami Reuben  
-
-    description: Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye
-    price: "11"
-  - name: |+
       Falafel  
 
     price: "9"
