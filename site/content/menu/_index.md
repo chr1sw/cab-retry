@@ -24,9 +24,6 @@ snacks:
     description: |
       Cheddar Mac and Cheese, BBQ Pork, Bacon Fat Breadcrumb
     price: "10"
-  - name: Pastrami Fries
-    description: Swiss Mornay, Pastrami Bits, Russian, Diced Onion
-    price: "12"
   - name: |
       Chicken Wings  
     description: |
