@@ -52,11 +52,6 @@ sandwiches:
     description: "Buttermilk Brined Chicken Thigh, Hot Sauce, B&B Pickles, Ranch "
     price: 10 |  Exxxtra Hot  Add 1
   - name: |+
-      Banh Mi  
-
-    description: Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeno
-    price: "10"
-  - name: |+
       Falafel  
 
     price: "9"
