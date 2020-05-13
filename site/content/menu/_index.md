@@ -59,6 +59,10 @@ sandwiches:
   - name: Kids Grilled Cheese
     price: "5"
     description: Cooper Sharp, Potato Bread
+  - name: |
+      Banh Mi 
+    description: Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeno
+    price: " 10"
 burgers:
   - name: "Served with:"
     description: Chips or Salad
