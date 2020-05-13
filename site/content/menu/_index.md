@@ -87,6 +87,11 @@ burgers:
   - name: Kids Burger
     description: Ketchup, Cooper Sharp
     price: "7"
+  - name: |+
+      BBQ Bacon  
+
+    description: Sweet Onion Jam, Smoked Bacon, Aioli, Cooper Sharp
+    price: "12"
 salads:
   - name: |
       Wedge Salad 
