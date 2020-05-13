@@ -66,6 +66,11 @@ burgers:
   - description: 2-year Aged Cheddar, B&B Pickle, Aioli, Shaved Onion
     name: House Special Burger
     price: "10"
+  - name: |+
+      BBQ Bacon  
+
+    description: Sweet Onion Jam, Smoked Bacon, Aioli, Cooper Sharp
+    price: "12"
   - description: Double Patty, Caramelized Onion, Cajun Mayo, Cooper Sharp, Rye Bread
     name: Patty Melt
     price: "14"
@@ -87,11 +92,6 @@ burgers:
   - name: Kids Burger
     description: Ketchup, Cooper Sharp
     price: "7"
-  - name: |+
-      BBQ Bacon  
-
-    description: Sweet Onion Jam, Smoked Bacon, Aioli, Cooper Sharp
-    price: "12"
 salads:
   - name: |
       Wedge Salad 
