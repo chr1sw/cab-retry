@@ -40,6 +40,11 @@ sandwiches:
 
     description: BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun
     price: "10"
+  - name: |+
+      Pastrami Reuben  
+
+    description: Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye
+    price: "11"
   - description: Smoked Ham, Spicy Dijon, Aioli, Swiss, Pickle, Long Roll
     name: Cuban
     price: "10"
@@ -58,11 +63,6 @@ sandwiches:
   - name: Kids Grilled Cheese
     price: "5"
     description: Cooper Sharp, Potato Bread
-  - name: |+
-      Pastrami Reuben  
-
-    description: Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye
-    price: "11"
 burgers:
   - name: "Served with:"
     description: Chips or Salad
