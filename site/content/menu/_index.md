@@ -93,14 +93,9 @@ burgers:
     description: |
       Jalapeño Jam, Spicy Fresno Aioli, Crispy Onions, Cooper Sharp
     price: "11"
-  - name: |+
-      Chorizo 
-
-    price: " 11"
-    description: Chorizo Patty, Sour Cream, Queso, Tomatillo Salsa, Sunny Egg
-  - name: "Dry Age "
-    description: "Dry Age Patty,  Russian, Swiss, Dill Pickle "
-    price: "14"
+  - name: Steakhouse
+    description: Marinated Mushrooms, Blue Cheese, Arugula, Dijonnaise
+    price: "13"
   - name: Kids Burger
     description: Ketchup, Cooper Sharp
     price: "7"
