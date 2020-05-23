@@ -22,6 +22,11 @@ snacks:
   - name: Pork Rinds
     description: BBQ Spice
     price: "5"
+  - name: |+
+      Fried Pickles 
+
+    description: B&B Pickle, Chipotle Ranch
+    price: "6"
   - name: |
       Pulled Pork Mac 
     description: |
