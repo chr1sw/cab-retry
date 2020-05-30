@@ -59,10 +59,6 @@ sandwiches:
   - description: Smoked Ham, Spicy Dijon, Aioli, Swiss, Pickle, Long Roll
     name: Cuban
     price: "10"
-  - name: |
-      Banh Mi 
-    description: Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeno
-    price: " 10"
   - name: Spicy Chicken
     description: "Buttermilk Brined Chicken Thigh, Hot Sauce, B&B Pickles, Ranch "
     price: 10 |  Exxxtra Hot  Add 1
