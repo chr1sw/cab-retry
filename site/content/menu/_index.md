@@ -9,9 +9,6 @@ snacks:
       Poutine  
     price: "9"
     description: Tallow Fries, Fonduta Cheese Curds, Beef Gravy
-  - name: Pastrami Fries
-    description: Pastrami Bits, Swiss Mornay, Russian, Onions
-    price: "12"
   - name: |+
       Onion Rings  
 
