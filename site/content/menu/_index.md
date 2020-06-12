@@ -39,6 +39,9 @@ sandwiches:
   - name: "Served with:"
     description: Chips or Salad
     price: Substitute Fries 2
+  - name: Brisket
+    description: Texas Style Brisket, Alabama White Sauce, BBQ, Dill Pickles
+    price: "13"
   - description: Braised Beef Neck, Jalapeño Cream Cheese, Celery Seed Pickled
       Onion, Brioche Bun
     name: Beef & Cheese
