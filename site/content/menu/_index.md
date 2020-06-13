@@ -72,6 +72,9 @@ sandwiches:
   - name: Kids Grilled Cheese
     price: "5"
     description: Cooper Sharp, Potato Bread
+  - name: Brisket
+    description: Texas Style Rub, Alabama White Sauce, Dill Pickles, BBQ
+    price: "13"
 burgers:
   - name: "Served with:"
     description: Chips or Salad
