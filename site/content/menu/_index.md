@@ -39,6 +39,9 @@ sandwiches:
   - name: "Served with:"
     description: Chips or Salad
     price: Substitute Fries 2
+  - name: Buffalo Chicken
+    description: Buffalo Sauce, Blue Cheese, Shaved Celery Slaw, Dill Pickles
+    price: "11"
   - description: Braised Beef Neck, Jalapeño Cream Cheese, Celery Seed Pickled
       Onion, Brioche Bun
     name: Beef & Cheese
