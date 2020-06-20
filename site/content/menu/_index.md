@@ -120,9 +120,6 @@ dessert:
   - name: Griddled Pound Cake
     description: Madagascan Vanilla Ice Cream
     price: "6"
-  - name: Ice Cream Sandwich
-    price: "5"
-    description: Double Chocolate Cookie, Madagascan Vanilla Ice Cream
 beverages:
   - name: Artisan Beer and Non-Alcoholic Beverages Available
 ---
