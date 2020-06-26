@@ -5,4 +5,10 @@ contact_entries: []
 ---
 Hours
 
-Wed-Sun 11am-8pm
+<!--StartFragment-->
+
+Wed-Thurs 11-8\
+Fri-Sat 11-9\
+Sun 11-8
+
+<!--EndFragment-->
