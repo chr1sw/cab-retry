@@ -5,7 +5,10 @@ info:
   addone: 325 North Queen Street | The Keppel Building
   addtwo: Lancaster, PA 17602 | Phone 717-208-7344
   heading: Locally Sourced Butcher & Restaurant
-  hours: Wed-Sun 11am-8pm
+  hours: |-
+    Wed-Thurs 11-8
+    Fri-Sat 11-9
+    Sun 11-8
   note: Customer Parking Available
 news:
   heading: Latest News
