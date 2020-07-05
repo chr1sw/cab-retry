@@ -23,9 +23,6 @@ snacks:
 
     description: Lard Confit, Hot Sauce, Blue Cheese
     price: "12"
-  - name: Pork Rinds
-    description: BBQ Spice
-    price: "5"
   - name: |+
       Fried Pickles 
 
