@@ -2,10 +2,6 @@
 title: MENU
 image: img/4fd00345-1ff3-4bf6-b756-2256fea3f9fc-1-.jpg
 snacks:
-  - name: Pastrami Fries
-    description: |
-      Swiss Mornay, Russian, Pastrami Bits, Diced Onion
-    price: "12"
   - description: Sweet Pickle Mayo and Ketchup
     name: Beef Tallow Fries
     price: "5"
