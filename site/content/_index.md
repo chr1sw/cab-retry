@@ -12,8 +12,9 @@ info:
   note: Customer Parking Available
 news:
   heading: Latest News
-  text: We are excited to announce our new on-site collaboration with Voodoo
-    Brewery, bringing you the finest craft beer to pair with our food menu.
+  text: We are excited to announce our new on-site collaboration with Mad Chef
+    Craft Brewing, bringing you the finest craft beer to pair with our food
+    menu.
 food:
   heading: Our Menu
   text: We serve brunch, lunch, and dinner, and update our menu regularly with
