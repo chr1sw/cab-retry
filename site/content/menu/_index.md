@@ -36,6 +36,10 @@ sandwiches:
   - name: "Served with:"
     description: Chips or Salad
     price: Substitute Fries 2
+  - name: Sweet & Sour Chicken
+    description: Tempura Batter, Sweet & Sour Sauce, Egg Roll Slaw, Crispy Wonton,
+      Scallion Mayo
+    price: "12"
   - description: Braised Beef Neck, Jalapeño Cream Cheese, Celery Seed Pickled
       Onion, Brioche Bun
     name: Beef & Cheese
