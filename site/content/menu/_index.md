@@ -42,7 +42,7 @@ sandwiches:
     price: "12"
   - name: |+
       Spicy Chicken 
-      Exxxtra Hot   add 1
+
 
     description: "Buttermilk Brined Chicken Thigh, Hot Sauce, B&B Pickles, Ranch "
     price: "11"
