@@ -40,6 +40,12 @@ sandwiches:
     description: Tempura Batter, Sweet & Sour Sauce, Egg Roll Slaw, Crispy Wonton,
       Scallion Mayo
     price: "12"
+  - name: |+
+      Spicy Chicken  10
+      Exxxtra Hot   add 1
+
+    description: "Buttermilk Brined Chicken Thigh, Hot Sauce, B&B Pickles, Ranch "
+    price: "11"
   - description: Braised Beef Neck, Jalapeño Cream Cheese, Celery Seed Pickled
       Onion, Brioche Bun
     name: Beef & Cheese
