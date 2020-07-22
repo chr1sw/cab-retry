@@ -41,7 +41,7 @@ sandwiches:
       Scallion Mayo
     price: "12"
   - name: |+
-      Spicy Chicken  10
+      Spicy Chicken 
       Exxxtra Hot   add 1
 
     description: "Buttermilk Brined Chicken Thigh, Hot Sauce, B&B Pickles, Ranch "
