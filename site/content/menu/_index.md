@@ -36,6 +36,9 @@ sandwiches:
   - name: "Served with:"
     description: Chips or Salad
     price: Substitute Fries 2
+  - name: Smoked Brisket
+    description: Texas Style Brisket, Alabama White Sauce, BBQ, Dill Pickle
+    price: "13"
   - name: Sweet & Sour Chicken
     description: Tempura Batter, Sweet & Sour Sauce, Egg Roll Slaw, Crispy Wonton,
       Scallion Mayo
