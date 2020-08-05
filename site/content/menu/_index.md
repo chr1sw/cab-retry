@@ -36,14 +36,6 @@ sandwiches:
   - name: "Served with:"
     description: Chips or Salad
     price: Substitute Fries 2
-  - name: JBLT
-    description: |
-      Jowl Bacon, Arugula, Heirloom Tomato, Aioli, Swiss, Fresh Herbs
-    price: "11"
-  - name: Sweet & Sour Chicken
-    description: Tempura Batter, Sweet & Sour Sauce, Egg Roll Slaw, Crispy Wonton,
-      Scallion Mayo
-    price: "12"
   - name: |+
       Spicy Chicken 
 
