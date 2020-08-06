@@ -36,6 +36,10 @@ sandwiches:
   - name: "Served with:"
     description: Chips or Salad
     price: Substitute Fries 2
+  - description: |
+      Jowl Bacon, Arugula, Heirloom Tomato, Aioli, Swiss, Fresh Herbs
+    price: "11"
+    name: JBLT
   - name: |+
       Spicy Chicken 
 
