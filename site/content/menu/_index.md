@@ -19,11 +19,6 @@ snacks:
 
     description: Lard Confit, Hot Sauce, Blue Cheese
     price: "12"
-  - name: |+
-      Fried Pickles 
-
-    description: B&B Pickle, Chipotle Ranch
-    price: "6"
   - name: |
       Pulled Pork Mac 
     description: |
@@ -36,10 +31,6 @@ sandwiches:
   - name: "Served with:"
     description: Chips or Salad
     price: Substitute Fries 2
-  - description: |
-      Jowl Bacon, Arugula, Heirloom Tomato, Aioli, Swiss, Fresh Herbs
-    price: "11"
-    name: JBLT
   - name: |+
       Spicy Chicken 
 
@@ -116,9 +107,6 @@ brunch:
     name: Monte Cristo
     price: "9"
 dessert:
-  - name: Griddled Pound Cake
-    description: Madagascan Vanilla Ice Cream
-    price: "6"
   - name: Ice Cream Sandwich
     description: Madagascan Vanilla Ice Cream
     price: "5"
