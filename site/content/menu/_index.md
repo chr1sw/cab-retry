@@ -19,6 +19,11 @@ snacks:
 
     description: Lard Confit, Hot Sauce, Blue Cheese
     price: "12"
+  - name: |+
+      Fried Pickles
+
+    price: "6"
+    description: B&B Pickle, Chipotle Ranch
   - name: |
       Pulled Pork Mac 
     description: |
