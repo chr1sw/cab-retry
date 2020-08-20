@@ -36,11 +36,6 @@ sandwiches:
   - name: "Served with:"
     description: Chips or Salad
     price: Substitute Fries 2
-  - name: JBLT
-    price: "11"
-    description: |
-      
-      Jowl Bacon, Arugula, Heirloom Tomato, Aioli, Swiss, Fresh Herbs
   - name: |+
       Spicy Chicken 
 
@@ -116,10 +111,7 @@ brunch:
       Cooper American
     name: Monte Cristo
     price: "9"
-dessert:
-  - name: Ice Cream Sandwich
-    description: Madagascan Vanilla Ice Cream
-    price: "5"
+dessert: []
 beverages:
   - name: Artisan Beer and Non-Alcoholic Beverages Available
 ---
