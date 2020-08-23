@@ -36,9 +36,6 @@ sandwiches:
   - name: "Served with:"
     description: Chips or Salad
     price: Substitute Fries 2
-  - description: Jowl Bacon, Heirloom Tomatoes, Arugula, Aioli, Fresh Herbs, Sourdough
-    name: JBLT
-    price: "11"
   - name: |+
       Spicy Chicken 
 
@@ -54,17 +51,9 @@ sandwiches:
 
     description: BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun
     price: "10"
-  - name: Pastrami Reuben
-    description: Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye
-    price: "11"
   - description: Smoked Ham, Spicy Dijon, Aioli, Swiss, Pickle, Long Roll
     name: Cuban
     price: "10"
-  - name: |+
-      Banh Mi  
-
-    price: "10"
-    description: Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeno
   - name: |+
       Falafel  
 
