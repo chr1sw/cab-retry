@@ -59,15 +59,15 @@ sandwiches:
 
     price: "9"
     description: Falafel Patty, Tzatziki, Radish, Pickled Red Onion
-  - name: Kids Grilled Cheese
-    price: "5"
-    description: Cooper Sharp, Potato Bread
   - name: Pastrami Reuben
     description: Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye
     price: "11"
   - name: Pork Banh Mi
     description: "Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeño "
     price: "10"
+  - name: Kids Grilled Cheese
+    price: "5"
+    description: Cooper Sharp, Potato Bread
 burgers:
   - name: "Served with:"
     description: Chips or Salad
