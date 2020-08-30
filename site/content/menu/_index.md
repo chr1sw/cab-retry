@@ -36,10 +36,6 @@ sandwiches:
   - name: "Served with:"
     description: Chips or Salad
     price: Substitute Fries 2
-  - description: |
-      Texas Style Brisket Dill Pickles, Alabama White Sauce, BBQ 
-    name: Brisket
-    price: "13"
   - name: |+
       Spicy Chicken 
 
