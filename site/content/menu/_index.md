@@ -109,6 +109,9 @@ brunch:
       Cooper American
     name: Monte Cristo
     price: "9"
+  - name: Biscuit and Gravy
+    description: Buttermilk Biscuit, Country Sausage Gravy, Hot Sauce
+    price: 9  |  Add an Egg 1.50
 dessert: []
 beverages:
   - name: Artisan Beer and Non-Alcoholic Beverages Available
