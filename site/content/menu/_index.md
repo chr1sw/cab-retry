@@ -54,11 +54,6 @@ sandwiches:
   - description: Smoked Ham, Spicy Dijon, Aioli, Swiss, Pickle, Long Roll
     name: Cuban
     price: "10"
-  - name: |+
-      Falafel  
-
-    price: "9"
-    description: Falafel Patty, Tzatziki, Radish, Pickled Red Onion
   - name: Pastrami Reuben
     description: Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye
     price: "11"
