@@ -19,6 +19,9 @@ snacks:
 
     description: Lard Confit, Hot Sauce, Blue Cheese
     price: "12"
+  - name: Pork Rinds
+    description: BBQ Spice
+    price: "5"
   - name: |+
       Fried Pickles
 
@@ -60,6 +63,9 @@ sandwiches:
   - name: Pork Banh Mi
     description: "Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeño "
     price: "10"
+  - name: Falafel
+    description: Falafel Patty, Tzatziki, Radish, Pickled Red Onion
+    price: "9"
   - name: Kids Grilled Cheese
     price: "5"
     description: Cooper Sharp, Potato Bread
