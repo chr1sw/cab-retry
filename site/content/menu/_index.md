@@ -36,9 +36,9 @@ snacks:
     price: "5"
     description: Pasta Shells, Cheddar
 sandwiches:
-  - name: "Served with:"
-    description: Chips or Salad
-    price: Substitute Fries 2
+  - name: Ribwich
+    description: Boneless Smoked Pork Ribs, BBQ, Aioli, Dill Pickles, Shaved Onion
+    price: "13"
   - name: |+
       Spicy Chicken 
 
