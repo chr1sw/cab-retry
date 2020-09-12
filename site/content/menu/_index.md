@@ -36,9 +36,6 @@ snacks:
     price: "5"
     description: Pasta Shells, Cheddar
 sandwiches:
-  - name: Ribwich
-    description: Boneless Smoked Pork Ribs, BBQ, Aioli, Dill Pickles, Shaved Onion
-    price: "13"
   - name: |+
       Spicy Chicken 
 
@@ -113,7 +110,10 @@ brunch:
   - name: Biscuit and Gravy
     description: Buttermilk Biscuit, Country Sausage Gravy, Hot Sauce
     price: 9  |  Add an Egg 1.50
-dessert: []
+dessert:
+  - name: Griddled Pound Cake
+    description: Madagascan Vanilla Ice Cream
+    price: "6"
 beverages:
   - name: Artisan Beer and Non-Alcoholic Beverages Available
 ---
