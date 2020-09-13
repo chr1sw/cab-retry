@@ -27,11 +27,6 @@ snacks:
 
     price: "6"
     description: B&B Pickle, Chipotle Ranch
-  - name: |
-      Pulled Pork Mac 
-    description: |
-      Cheddar Mac and Cheese, BBQ Pork, Bacon Fat Breadcrumb
-    price: "10"
   - name: Kids Mac and Cheese
     price: "5"
     description: Pasta Shells, Cheddar
@@ -46,11 +41,6 @@ sandwiches:
       Onion, Brioche Bun
     name: Beef & Cheese
     price: "11"
-  - name: |+
-      Pulled Pork  
-
-    description: BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun
-    price: "10"
   - description: Smoked Ham, Spicy Dijon, Aioli, Swiss, Pickle, Long Roll
     name: Cuban
     price: "10"
