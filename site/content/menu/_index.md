@@ -36,6 +36,12 @@ snacks:
     description: Pasta Shells, Cheddar
 sandwiches:
   - name: |+
+      Chicken Parm  
+
+    price: "12"
+    description: "Breaded Thigh, Marinara, Roasted Garlic Bread, Sharp Provolone,
+      Basil Aioli "
+  - name: |+
       Spicy Chicken 
 
 
@@ -48,9 +54,6 @@ sandwiches:
   - description: Smoked Ham, Spicy Dijon, Aioli, Swiss, Pickle, Long Roll
     name: Cuban
     price: "10"
-  - name: Pastrami Reuben
-    description: Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye
-    price: "11"
   - name: Pork Banh Mi
     description: "Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeño "
     price: "10"
