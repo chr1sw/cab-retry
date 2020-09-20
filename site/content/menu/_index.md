@@ -51,12 +51,6 @@ sandwiches:
       Onion, Brioche Bun
     name: Beef & Cheese
     price: "11"
-  - description: Smoked Ham, Spicy Dijon, Aioli, Swiss, Pickle, Long Roll
-    name: Cuban
-    price: "10"
-  - name: Pork Banh Mi
-    description: "Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeño "
-    price: "10"
   - name: Pulled Pork
     description: |
       BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun
@@ -104,10 +98,6 @@ brunch:
   - description: Chive Egg Scramble, 2-Year Aged Cheddar, Caramelized Onion, Aioli
     name: Breakfast Sandwich
     price: 6  |  add sausage +3
-  - description: Maple Cinnamon Butter, Candied Bacon, Smoked Ham, Over Easy Egg,
-      Cooper American
-    name: Monte Cristo
-    price: "9"
   - name: Biscuit and Gravy
     description: Buttermilk Biscuit, Country Sausage Gravy, Hot Sauce
     price: 9  |  Add an Egg 1.50
