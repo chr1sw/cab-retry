@@ -55,6 +55,13 @@ sandwiches:
     description: |
       BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun
     price: "10"
+  - name: Cuban
+    price: "10"
+    description: |
+      Smoked Ham, Spicy Dijon, Swiss, Aioli, Pickle, Long Roll
+  - name: Pastrami Reuben
+    price: "11"
+    description: Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye
   - name: Falafel
     description: Falafel Patty, Tzatziki, Radish, Pickled Red Onion
     price: "9"
@@ -73,7 +80,7 @@ burgers:
 
     description: Sweet Onion Jam, Smoked Bacon, Aioli, Cooper Sharp
     price: "12"
-  - description: Double Patty, Caramelized Onion, Cajun Mayo, Cooper Sharp, Rye Bread
+  - description: Double Patty, Caramelized Onion, Cajun Mayo, Cooper Sharp, Sourdough
     name: Patty Melt
     price: "14"
   - description: Cooper Sharp, Ketchup, LTO, Pickle Mayo
@@ -101,6 +108,11 @@ brunch:
   - name: Biscuit and Gravy
     description: Buttermilk Biscuit, Country Sausage Gravy, Hot Sauce
     price: 9  |  Add an Egg 1.50
+  - description: >
+      Maple Cinnamon Butter, Candied Bacon, Smoked Ham, Over Easy Egg, Cooper
+      American
+    name: Monte Cristo
+    price: "9"
 dessert:
   - name: Griddled Pound Cake
     description: Madagascan Vanilla Ice Cream
