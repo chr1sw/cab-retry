@@ -41,24 +41,27 @@ sandwiches:
     price: "12"
     description: "Breaded Thigh, Marinara, Roasted Garlic Bread, Sharp Provolone,
       Basil Aioli "
+  - description: Braised Beef Neck, Jalapeño Cream Cheese, Celery Seed Pickled
+      Onion, Brioche Bun
+    name: Beef & Cheese
+    price: "11"
+  - name: Pork Banh Mi
+    description: Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeno
+    price: "10"
+  - name: Cuban
+    price: "10"
+    description: |
+      Smoked Ham, Spicy Dijon, Swiss, Aioli, Pickle, Long Roll
+  - name: Pulled Pork
+    description: |
+      BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun
+    price: "10"
   - name: |+
       Spicy Chicken 
 
 
     description: "Buttermilk Brined Chicken Thigh, Hot Sauce, B&B Pickles, Ranch "
     price: "11"
-  - description: Braised Beef Neck, Jalapeño Cream Cheese, Celery Seed Pickled
-      Onion, Brioche Bun
-    name: Beef & Cheese
-    price: "11"
-  - name: Pulled Pork
-    description: |
-      BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun
-    price: "10"
-  - name: Cuban
-    price: "10"
-    description: |
-      Smoked Ham, Spicy Dijon, Swiss, Aioli, Pickle, Long Roll
   - name: Pastrami Reuben
     price: "11"
     description: Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye
@@ -105,9 +108,6 @@ brunch:
   - description: Chive Egg Scramble, 2-Year Aged Cheddar, Caramelized Onion, Aioli
     name: Breakfast Sandwich
     price: 6  |  add sausage +3
-  - name: Biscuit and Gravy
-    description: Buttermilk Biscuit, Country Sausage Gravy, Hot Sauce
-    price: 9  |  Add an Egg 1.50
   - description: >
       Maple Cinnamon Butter, Candied Bacon, Smoked Ham, Over Easy Egg, Cooper
       American
