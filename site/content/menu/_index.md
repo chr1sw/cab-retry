@@ -35,9 +35,6 @@ snacks:
     price: "5"
     description: Pasta Shells, Cheddar
 sandwiches:
-  - name: Brisket
-    description: Texas Style Smoked Brisket, Alabama White Sauce, BBQ, Dill Pickles
-    price: "13"
   - name: |+
       Chicken Parm  
 
