@@ -35,6 +35,11 @@ snacks:
     price: "5"
     description: Pasta Shells, Cheddar
 sandwiches:
+  - name: Sausage Grinder
+    description: >
+      Italian Sausage, Aged Provolone, Garlic Chili Broccoli Rabbe, Aioli, Hot
+      Banana Peppers
+    price: "12"
   - name: |+
       Chicken Parm  
 
