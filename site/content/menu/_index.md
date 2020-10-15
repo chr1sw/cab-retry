@@ -35,10 +35,8 @@ snacks:
     price: "5"
     description: Pasta Shells, Cheddar
 sandwiches:
-  - name: |-
+  - name: |
       TACO THURSDAY STARTS @5PM
-
-      Beef Tacos
     description: |
       
       Guajillo and Ancho Chili Braised Beef, Tomatillo Salsa, Onion, Cilantro
