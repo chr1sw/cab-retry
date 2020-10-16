@@ -35,12 +35,6 @@ snacks:
     price: "5"
     description: Pasta Shells, Cheddar
 sandwiches:
-  - name: |
-      TACO THURSDAY STARTS @5PM
-    description: |
-      
-      Guajillo and Ancho Chili Braised Beef, Tomatillo Salsa, Onion, Cilantro
-    price: 2 for 8
   - name: Sausage Grinder
     description: >
       Italian Sausage, Aged Provolone, Garlic Chili Broccoli Rabbe, Aioli, Hot
