@@ -80,6 +80,9 @@ burgers:
   - name: "Served with:"
     description: Chips or Salad
     price: Substitute Fries 2
+  - description: Dry Age Beef Patty, Dill Pickles, Russian Dressing, Swiss
+    name: Dry Age
+    price: "13"
   - description: 2-year Aged Cheddar, B&B Pickle, Aioli, Shaved Onion
     name: House Special Burger
     price: "10"
