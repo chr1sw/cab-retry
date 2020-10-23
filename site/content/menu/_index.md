@@ -35,12 +35,10 @@ snacks:
     price: "5"
     description: Pasta Shells, Cheddar
 sandwiches:
-  - name: TACO THURSDAY STARTING @5PM!!
-    description: >+
-      Mexican Chorizo, Pickled Cabbage Slaw, Salsa Verde, Cilantro, Queso
-      Fresco, Fresh Corn Tortilla
-
-    price: Two for $10
+  - name: Sloppy Joe
+    description: Ground Beef, SJ Sauce, Bell Peppers, Crispy Ranch Fronions, Ancho
+      Chili Aioli, White American, Brioche
+    price: "9"
   - name: Sausage Grinder
     description: >
       Italian Sausage, Aged Provolone, Garlic Chili Broccoli Rabbe, Aioli, Hot
