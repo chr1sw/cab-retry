@@ -35,7 +35,7 @@ snacks:
     price: "5"
     description: Pasta Shells, Cheddar
 sandwiches:
-  - name: TACO THURSDAY STARTS @5
+  - name: TACO THURSDAY STARTS @5!
     description: >
       Smoked Pulled Chicken, Avocado Salsa, Pico, Shredded Cheese, Fresh Corn
       Tortilla 
