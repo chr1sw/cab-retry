@@ -35,6 +35,11 @@ snacks:
     price: "5"
     description: Pasta Shells, Cheddar
 sandwiches:
+  - name: TACO THURSDAY STARTS @5
+    description: >
+      Smoked Pulled Chicken, Avocado Salsa, Pico, Shredded Cheese, Fresh Corn
+      Tortilla 
+    price: Two for 10
   - name: Sloppy Joe
     description: Ground Beef, SJ Sauce, Bell Peppers, Crispy Ranch Fronions, Ancho
       Chili Aioli, White American, Brioche
