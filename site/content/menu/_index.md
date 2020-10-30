@@ -35,10 +35,6 @@ snacks:
     price: "5"
     description: Pasta Shells, Cheddar
 sandwiches:
-  - name: Sloppy Joe
-    description: Ground Beef, SJ Sauce, Bell Peppers, Crispy Ranch Fronions, Ancho
-      Chili Aioli, White American, Brioche
-    price: "9"
   - name: Sausage Grinder
     description: >
       Italian Sausage, Aged Provolone, Garlic Chili Broccoli Rabbe, Aioli, Hot
