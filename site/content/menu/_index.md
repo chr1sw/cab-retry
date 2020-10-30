@@ -19,9 +19,6 @@ snacks:
 
     description: Lard Confit, Hot Sauce, Blue Cheese
     price: "12"
-  - name: Pork Rinds
-    description: BBQ Spice
-    price: "5"
   - name: |+
       Fried Pickles
 
@@ -35,11 +32,6 @@ snacks:
     price: "5"
     description: Pasta Shells, Cheddar
 sandwiches:
-  - name: TACO THURSDAY STARTS @5!
-    description: >
-      Smoked Pulled Chicken, Avocado Salsa, Pico, Shredded Cheese, Fresh Corn
-      Tortilla 
-    price: Two for 10
   - name: Sloppy Joe
     description: Ground Beef, SJ Sauce, Bell Peppers, Crispy Ranch Fronions, Ancho
       Chili Aioli, White American, Brioche
