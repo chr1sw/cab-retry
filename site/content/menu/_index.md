@@ -7,7 +7,7 @@ snacks:
     price: "5"
   - name: Pastrami Fries
     price: "9"
-    description: "Pastrami Spiced Fries, Swiss Mornay, Russian, Diced Onion, "
+    description: Pastrami Spiced Fries, Pastrmami Bits, Swiss Mornay, Russian, Diced Onion
   - name: |
       Poutine  
     price: "9"
