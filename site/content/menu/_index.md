@@ -5,6 +5,9 @@ snacks:
   - description: Sweet Pickle Mayo and Ketchup
     name: Beef Tallow Fries
     price: "5"
+  - name: Pastrami Fries
+    price: "9"
+    description: "Pastrami Spiced Fries, Swiss Mornay, Russian, Diced Onion, "
   - name: |
       Poutine  
     price: "9"
