@@ -35,6 +35,11 @@ snacks:
     price: "5"
     description: Pasta Shells, Cheddar
 sandwiches:
+  - name: TACO THURSDAY STARTS @5
+    price: Two for 10
+    description: >
+      Mexican Chorizo, Sunny Egg, Cotija, Avocado Salsa, Scallion, Fresh Corn
+      Tortilla 
   - name: Sausage Grinder
     description: >
       Italian Sausage, Aged Provolone, Garlic Chili Broccoli Rabbe, Aioli, Hot
