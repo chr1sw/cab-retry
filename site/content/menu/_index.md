@@ -120,7 +120,7 @@ salads:
 brunch:
   - description: Chive Egg Scramble, 2-Year Aged Cheddar, Caramelized Onion, Aioli
     name: Breakfast Sandwich
-    price: 6  |  add sausage +3
+    price: 6  |  add sausage or bacon +3
   - description: >
       Maple Cinnamon Butter, Candied Bacon, Smoked Ham, Over Easy Egg, Cooper
       American
