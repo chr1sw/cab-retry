@@ -35,11 +35,9 @@ snacks:
     price: "5"
     description: Pasta Shells, Cheddar
 sandwiches:
-  - name: |
-      Taco Thursday Quesadilla Style Starts @5
-    description: Adobo Chicken Quesadilla, Queso Oaxaca, Pico, Avocado Salsa, Crema
-      Mexicana, Fresh Flour Tortilla
-    price: "10"
+  - name: Shrimp Po Boy
+    description: Fried Shrimp, Aioli, Dill Pickles, Shrettuce, Tomato, Crystal Hot Sauce
+    price: "15"
   - name: Sausage Grinder
     description: >
       Italian Sausage, Aged Provolone, Garlic Chili Broccoli Rabbe, Aioli, Hot
