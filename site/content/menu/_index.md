@@ -35,14 +35,6 @@ snacks:
     price: "5"
     description: Pasta Shells, Cheddar
 sandwiches:
-  - name: Shrimp Po Boy
-    description: Fried Shrimp, Aioli, Dill Pickles, Shrettuce, Tomato, Crystal Hot Sauce
-    price: "15"
-  - name: Sausage Grinder
-    description: >
-      Italian Sausage, Aged Provolone, Garlic Chili Broccoli Rabbe, Aioli, Hot
-      Banana Peppers
-    price: "12"
   - name: |+
       Chicken Parm  
 
@@ -53,9 +45,6 @@ sandwiches:
       Onion, Brioche Bun
     name: Beef & Cheese
     price: "11"
-  - name: Pork Banh Mi
-    description: Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeno
-    price: "10"
   - name: Cuban
     price: "10"
     description: |
@@ -70,9 +59,6 @@ sandwiches:
 
     description: "Buttermilk Brined Chicken Thigh, Hot Sauce, B&B Pickles, Ranch "
     price: "11"
-  - name: Pastrami Reuben
-    price: "11"
-    description: Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye
   - name: Falafel
     description: Falafel Patty, Tzatziki, Radish, Pickled Red Onion
     price: "9"
