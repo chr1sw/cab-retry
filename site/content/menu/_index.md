@@ -35,12 +35,6 @@ snacks:
     price: "5"
     description: Pasta Shells, Cheddar
 sandwiches:
-  - name: |+
-      Chicken Parm  
-
-    price: "12"
-    description: "Breaded Thigh, Marinara, Roasted Garlic Bread, Sharp Provolone,
-      Basil Aioli "
   - description: Braised Beef Neck, Jalapeño Cream Cheese, Celery Seed Pickled
       Onion, Brioche Bun
     name: Beef & Cheese
@@ -49,6 +43,12 @@ sandwiches:
     price: "10"
     description: |
       Smoked Ham, Spicy Dijon, Swiss, Aioli, Pickle, Long Roll
+  - name: "Pastrami Reuben  "
+    description: Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye
+    price: "11"
+  - name: "Pork Banh Mi  "
+    description: Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeno
+    price: "10"
   - name: Pulled Pork
     description: |
       BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun
@@ -59,12 +59,12 @@ sandwiches:
 
     description: "Buttermilk Brined Chicken Thigh, Hot Sauce, B&B Pickles, Ranch "
     price: "11"
-  - name: "Pastrami Reuben  "
-    description: Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye
-    price: "11"
-  - name: "Pork Banh Mi  "
-    description: Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeno
-    price: "10"
+  - name: |+
+      Chicken Parm  
+
+    price: "12"
+    description: "Breaded Thigh, Marinara, Roasted Garlic Bread, Sharp Provolone,
+      Basil Aioli "
   - name: Falafel
     description: Falafel Patty, Tzatziki, Radish, Pickled Red Onion
     price: "9"
