@@ -62,6 +62,12 @@ sandwiches:
   - name: Falafel
     description: Falafel Patty, Tzatziki, Radish, Pickled Red Onion
     price: "9"
+  - name: "Pastrami Reuben  "
+    description: Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye
+    price: "11"
+  - name: "Pork Banh Mi  "
+    description: Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeno
+    price: "10"
   - name: Kids Grilled Cheese
     price: "5"
     description: Cooper Sharp, Potato Bread
@@ -93,6 +99,12 @@ burgers:
   - name: Steakhouse
     description: Marinated Mushrooms, Blue Cheese, Arugula, Dijonnaise
     price: "13"
+  - name: |
+      Sausage Grinder 
+    description: >
+      Italian Sausage, Aged Provolone, Garlic Chili Broccoli Rabbe, Aioli, Hot
+      Banana Peppers
+    price: "12"
   - name: Kids Burger
     description: Ketchup, Cooper Sharp
     price: "7"
