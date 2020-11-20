@@ -35,6 +35,10 @@ snacks:
     price: "5"
     description: Pasta Shells, Cheddar
 sandwiches:
+  - name: Ribwich
+    description: |
+      Smoked Boneless Pork Ribs, Jalapeno BBQ, Aioli, Dill Picks, Shaved Onion
+    price: "13"
   - description: Braised Beef Neck, Jalapeño Cream Cheese, Celery Seed Pickled
       Onion, Brioche Bun
     name: Beef & Cheese
