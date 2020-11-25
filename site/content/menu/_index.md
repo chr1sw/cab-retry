@@ -51,9 +51,6 @@ sandwiches:
     price: "10"
     description: |
       Smoked Ham, Spicy Dijon, Swiss, Aioli, Pickle, Long Roll
-  - name: "Pastrami Reuben  "
-    description: Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye
-    price: "11"
   - name: "Pork Banh Mi  "
     description: Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeno
     price: "10"
