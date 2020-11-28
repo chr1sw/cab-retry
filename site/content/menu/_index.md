@@ -5,10 +5,6 @@ snacks:
   - name: Fried Stuffing
     description: Sausage Stuffing, Mirepoix, Cranberry Miso Mayo
     price: "9"
-  - name: Chili Cheese Fries
-    description: |
-      Tallow Fries, Seasoning Salt, Chili, Cheese Sauce, Scallions 
-    price: "9"
   - description: Sweet Pickle Mayo and Ketchup
     name: Beef Tallow Fries
     price: "5"
@@ -42,10 +38,6 @@ snacks:
     price: "5"
     description: Pasta Shells, Cheddar
 sandwiches:
-  - name: Ribwich
-    description: |
-      Smoked Boneless Pork Ribs, Jalapeno BBQ, Aioli, Dill Picks, Shaved Onion
-    price: "13"
   - description: Braised Beef Neck, Jalapeño Cream Cheese, Celery Seed Pickled
       Onion, Brioche Bun
     name: Beef & Cheese
@@ -54,9 +46,6 @@ sandwiches:
     price: "10"
     description: |
       Smoked Ham, Spicy Dijon, Swiss, Aioli, Pickle, Long Roll
-  - name: "Pork Banh Mi  "
-    description: Smoked Pork Loin, Char Siu Glaze, Aioli, Pickled Veg, Cilantro, Jalapeno
-    price: "10"
   - name: Pulled Pork
     description: |
       BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun
