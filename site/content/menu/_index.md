@@ -62,9 +62,6 @@ sandwiches:
     price: "12"
     description: "Breaded Thigh, Marinara, Roasted Garlic Bread, Sharp Provolone,
       Basil Aioli "
-  - name: Falafel
-    description: Falafel Patty, Tzatziki, Radish, Pickled Red Onion
-    price: "9"
   - name: Kids Grilled Cheese
     price: "5"
     description: Cooper Sharp, Potato Bread
