@@ -46,6 +46,11 @@ sandwiches:
     price: "10"
     description: |
       Smoked Ham, Spicy Dijon, Swiss, Aioli, Pickle, Long Roll
+  - name: |
+      Pastrami Reuben 
+    description: |
+      Smoked Beef Navel, Russian, Sauerkraut, Swiss, Marble Rye
+    price: "11"
   - name: Pulled Pork
     description: |
       BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun
