@@ -38,6 +38,11 @@ snacks:
     price: "5"
     description: Pasta Shells, Cheddar
 sandwiches:
+  - description: >
+      Pork Carnitas, Salsa Verde Cruda, Cabbage Slaw, Pickled Jalapenos, Fresh
+      Corn Tortilla  
+    name: Taco Thursday Starts @5!
+    price: Two for 10
   - description: Braised Beef Neck, Jalapeño Cream Cheese, Celery Seed Pickled
       Onion, Brioche Bun
     name: Beef & Cheese
